@@ -16,3 +16,27 @@ body{
 .seccion {
     margin-bottom: 30px;
 }
+
+.foto_perfil {
+    width: 150px;
+    height: auto;
+    float: left;
+    margin-right: 20px;
+}
+.detalles_pers{
+    overflow: hidden;
+}
+.seccion h1, .seccion h2, .seccion h3 {
+    color: rgb(15, 136, 89);
+    margin: 0;
+}
+
+.seccion h2 {
+    border-bottom: 2px solid #333;
+    padding-bottom: 5px;
+    margin-bottom: 10px;
+}
+
+.seccion p {
+    margin: 0;
+}
